@@ -1,37 +1,9 @@
-# Session 1 - 17th Sept.
-
-## Introduction and interaction paradigms
-
-### 1.1
+# Introduction
 
 #### Spanish
 
-asd
+{% embed url="https://media.upv.es/#/portal/video/26d5ed50-85f2-11f1-baa1-8946101efe73" %}
 
 #### English
 
-asd
-
-***
-
-### 1.2
-
-#### Spanish
-
-asd
-
-#### English
-
-asd
-
-***
-
-### 1.3
-
-#### Spanish
-
-asd
-
-#### English
-
-asd
+{% embed url="https://media.upv.es/#/portal/video/8e2cabd0-85f5-11f1-ad25-efa041478849" %}

@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Session 1 - 17th Sept.](README.md)
+* [Introduction](README.md)
+* [Session 1 - 17th Sept.](<README (1).md>)
 * [Session 2 - 24th Sept.](session-2-24th-sept..md)
 * [Session 3 - 1st Oct.](session-3-1st-oct..md)
 * [Session 4 - 8th Oct.](session-4-8th-oct..md)
