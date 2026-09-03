@@ -2,7 +2,7 @@
 
 ## AI and ML in XR
 
-### 6.1
+### 6.1 - The Role of AI
 
 #### Spanish
 
@@ -14,7 +14,7 @@
 
 ***
 
-### 6.2
+### 6.2 - From Bio to AI
 
 #### Spanish
 
@@ -26,7 +26,7 @@
 
 ***
 
-### 6.3
+### 6.3 - DL and Applications
 
 #### Spanish
 

@@ -2,7 +2,7 @@
 
 ## Basic concepts
 
-### 2.1
+### 2.1 - Augmented Reality
 
 #### Spanish
 
@@ -14,7 +14,7 @@
 
 ***
 
-### 2.2
+### 2.2 - Mixed Reality
 
 #### Spanish
 
@@ -26,7 +26,7 @@
 
 ***
 
-### 2.3
+### 2.3 - Mediated and eXtended Reality
 
 #### Spanish
 

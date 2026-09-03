@@ -2,7 +2,7 @@
 
 ## Virtual Reality
 
-### 3.1
+### 3.1 - What is Virtual Reality
 
 #### Spanish
 
@@ -14,7 +14,7 @@
 
 ***
 
-### 3.2
+### 3.2 - 3DoF and 6DoF
 
 #### Spanish
 
@@ -26,7 +26,7 @@
 
 ***
 
-### 3.3
+### 3.3 - Evolution of HMDs
 
 #### Spanish
 
@@ -38,7 +38,7 @@
 
 ***
 
-### 3.4
+### 3.4 - VR Accessories
 
 #### Spanish
 

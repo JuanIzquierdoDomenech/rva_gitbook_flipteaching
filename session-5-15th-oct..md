@@ -2,7 +2,7 @@
 
 ## Applications and future
 
-### 5.1
+### 5.1 - Applications
 
 #### Spanish
 
@@ -14,7 +14,7 @@
 
 ***
 
-### 5.2
+### 5.2 - Metaverse and AR Cloud
 
 #### Spanish
 

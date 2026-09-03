@@ -2,7 +2,7 @@
 
 ## Augmented Reality
 
-### 4.1
+### 4.1 - What is Augmented Reality
 
 #### Spanish
 
@@ -14,7 +14,7 @@
 
 ***
 
-### 4.2
+### 4.2 - Physic and Semantic layers
 
 #### Spanish
 
@@ -26,7 +26,7 @@
 
 ***
 
-### 4.3
+### 4.3 - Tracking Techniques
 
 #### Spanish
 
@@ -38,7 +38,7 @@
 
 ***
 
-### 4.4
+### 4.4 - AR Devices
 
 #### Spanish
 

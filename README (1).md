@@ -2,7 +2,7 @@
 
 ## Introduction and interaction paradigms
 
-### 1.1
+### 1.1 - Introduction to Interaction Paradigms
 
 #### Spanish
 
@@ -14,7 +14,7 @@
 
 ***
 
-### 1.2
+### 1.2 - From 2D to 3D
 
 #### Spanish
 
@@ -26,7 +26,7 @@
 
 ***
 
-### 1.3
+### 1.3 - Why VR and AR now
 
 #### Spanish
 
